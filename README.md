@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
 <!--
 **ekvasnyi/ekvasnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
