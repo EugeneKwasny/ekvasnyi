@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
+🌱 I’m currently learning [A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT (LFD102)](https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-open-source-software-development-lfc102/course-introduction/course-information)
 <!--
 **ekvasnyi/ekvasnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
