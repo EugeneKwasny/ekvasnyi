@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103)
+🌱 I’m currently learning [Back-end engineer career path @codecademy.com)](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 <!--
 **ekvasnyi/ekvasnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
