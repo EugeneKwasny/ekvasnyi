@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning [Back-end engineer career path @codecademy.com)](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
+🌱 I’m currently learning [Back-end engineer career path at codecademy.com](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 <!--
 **ekvasnyi/ekvasnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
